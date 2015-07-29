@@ -1,4 +1,4 @@
 <?php
 define('PHPWG_VERSION', '2.8.2');
 
-// there is no place like home, yeah baby!
+// there is no place like home. Home sweet home.
