@@ -1,2 +1,2 @@
 <?php
-define('PHPWG_VERSION', '2.8.0');
+define('PHPWG_VERSION', '2.9.0beta1');
